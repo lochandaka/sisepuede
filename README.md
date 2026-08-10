@@ -1,2 +1,7 @@
-# sisepuede
-Sisepuede Main Repository
+# SISEPUEDE
+
+(info here)
+
+(readthedocs)
+
+(citation)
